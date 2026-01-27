@@ -38,7 +38,6 @@ The project is intended for learning algorithm behavior, grid navigation and opt
   - **BFS** — explores breadth first
   - **DFS** — explores depth first
   - **A\*** — shortest path using heuristics
-  - Additional hybrid or custom strategies (based on your code)
 
 ### 🏁 Algorithm Races
 - Watch two or more algorithms run side-by-side
@@ -75,8 +74,7 @@ https://www.sfml-dev.org/
    ```bash
    git clone https://github.com/NtokozoMkhwanazi/pathFinder.git
    cd pathFinder
-g++ -std=c++17 SHORTEST\ PATHFINDER/*.cpp SNAKE\ GAME/*.cpp \
-    -lsfml-graphics -lsfml-window -lsfml-system -o pathFinder
+g++ -std=c++17 *.cpp -lsfml-graphics -lsfml-window -lsfml-system -o run
 
-run: ./pathFinder
+run: ./run
 
