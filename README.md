@@ -17,19 +17,18 @@ This repository contains:
   - Breadth-First Search (BFS)
   - Depth-First Search (DFS)
   - A* Search
-  - Other variations you’ve implemented
-- **Races** between algorithms to compare performance visually
-- A basic **Snake agent** demonstrating movement logic
+- **Benchmarking** between algorithms to compare performance visually
+- A basic **Snake agent** demonstrating Algorithm-based movement logic
 
-The project is intended for learning algorithm behavior, grid navigation, and real-time visualization techniques in C++.
+The project is intended for learning algorithm behavior, grid navigation and optimization, real-time visualization techniques in C/C++.
 
 ---
 
 ## 🧩 Features
 
 ### 🌀 Maze & Goal
-- Procedurally generated maze environments
-- Goal sometimes randomized — other times fixed according to variation
+- Random maze environments with obstacles at random and fixed positions 
+- Goal randomized — other times fixed according to variation
 - Several maze configurations for testing different scenarios
 
 ### 🤖 Agents & Algorithms
