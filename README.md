@@ -22,6 +22,11 @@ This repository contains:
 
 The project is intended for learning algorithm behavior, grid navigation and optimization, real-time visualization techniques in C/C++.
 
+
+<img width="1366" height="768" alt="SNAKE" src="https://github.com/user-attachments/assets/24e0bff8-7646-4146-bafe-5dd6870c77e3" />
+<img width="1366" height="768" alt="snake" src="https://github.com/user-attachments/assets/539034f4-7809-4d11-a125-3dbc49a825ee" />
+<img width="1366" height="768" alt="agent" src="https://github.com/user-attachments/assets/cdd65b6b-1ae1-4d82-8f24-074a3baa70f7" />
+
 ---
 
 ## 🧩 Features
